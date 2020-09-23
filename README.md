@@ -34,23 +34,14 @@ There are three parts:
 ## How to cite our paper
 
     @article{yin2020defense,
-
-     title={Defense against adversarial attacks by low-level image transformations},
-  
-     author={Yin, Zhaoxia and Wang, Hua and Wang, Jie and Tang, Jin and Wang, Wenzhong},
-  
-     journal={International Journal of Intelligent Systems},
-  
-     volume={35},
-  
+     title={Defense against adversarial attacks by low-level image transformations}, 
+     author={Yin, Zhaoxia and Wang, Hua and Wang, Jie and Tang, Jin and Wang, Wenzhong}, 
+     journal={International Journal of Intelligent Systems}, 
+     volume={35}, 
      number={10},
-  
-     pages={1453--1466},
-  
-     year={2020},
-  
+     pages={1453--1466}, 
+     year={2020}, 
      publisher={Wiley Online Library}
-  
     }
 
    
