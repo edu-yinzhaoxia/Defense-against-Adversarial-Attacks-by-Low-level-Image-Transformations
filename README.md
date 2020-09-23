@@ -1,4 +1,4 @@
-# Defense-against-Adversarial-Attacks-by-Low-level-Image-Transformations
+# Defense against Adversarial Attacks by Low level Image Transformations
 
 This code is the implementation of the adversarial defense method introduced in the paper "Defense against Adversarial Attacks by Low-level Image Transformations".
 
