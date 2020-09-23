@@ -33,7 +33,7 @@ There are three parts:
 
 ## How to cite our paper
 
-@article{yin2020defense,
+    @article{yin2020defense,
 
      title={Defense against adversarial attacks by low-level image transformations},
   
@@ -51,7 +51,7 @@ There are three parts:
   
      publisher={Wiley Online Library}
   
-}
+    }
 
    
 
