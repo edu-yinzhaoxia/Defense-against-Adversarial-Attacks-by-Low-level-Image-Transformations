@@ -11,8 +11,13 @@ python FlipImages.py /Mycode_path/Adversarial_image/
 
 3. Two ways of WebP compression:
 - Single image compression
+
 cwebp -q quality_factor input.png -o output.webp
+
 eg: cwebp -q 60 airliner.jpg  -o airliner.webp
+
 - Batch compress images
+
 python __init__.py --c --ignore-transparency-image -q=quality_factor 
+
 eg: python __init__.py --c --ignore-transparency-image -q=60
